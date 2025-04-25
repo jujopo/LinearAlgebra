@@ -14,3 +14,6 @@ such that for every choice of $\mathbf{x}$, $\mathbf{y}$ $\in V$ and every scala
 1. $\rho(\mathbf{x}) \geq 0$ and equality holds if and only if $\mathbf{x}=0$.
 2. $\rho(\alpha\mathbf{x}) = \left|\alpha\right| \rho(\mathbf{x})$.
 3. $\rho(\mathbf{x+y}) \leq \rho(\mathbf{x}) + \rho(\mathbf{y})$.
+
+
+<span style="font-family:Helvetica"> This is Helvetica </span> $2x + y$ <span style="font-family:Helvetica">  We can see that </span>
