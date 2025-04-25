@@ -12,5 +12,5 @@ $$\begin{align*}
 such that for every choice of $\mathbf{x}$, $\mathbf{y}$ $\in V$ and every scalar $\alpha$ the following condtions are met
 
 1. $\rho(\mathbf{x}) \geq 0$ and equality holds if and only if $\mathbf{x}=0$.
-2. $\rho(\alpha\mathbf{x}) = \abs{alpha} \rho(\mathbf{x})$.
+2. $\rho(\alpha\mathbf{x}) = \abs{\alpha} \rho(\mathbf{x})$.
 3. $\rho(\mathbf{x+y}) \leq \rho(\mathbf{x}) + \rho(\mathbf{y})$.
